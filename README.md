@@ -3,7 +3,7 @@
 Welcome to the Bank Management System (BMS)! This console-based system that utilized file manipulation. It allows users to manage and perform bank transaction, access account information easily and securely. This manual will assist you in understanding the system’s features, setup procedures, and troubleshooting tips.
 
 System Requirements  
-•	Java Development Kit (JDK) - Version 8 or higher 
+•	Java Development Kit (JDK) - Version 8 or higher     
 •	Any Java IDE
 
 Installation Process  
@@ -52,7 +52,7 @@ Description: Log out of the system
 
 Troubleshooting  
 •	Issue: Unable to log in.    
-  Solution: Make sure to enter your correct contact number and password. If you have forgotten your password or number, check the text file.  
+  Solution: Make sure to enter your correct contact number and password. If you have forgotten your password or number and if you already had account, then check the text file. If not, then create a new one.  
   
 •	Issue: Failed to deposit or withdraw  
 	Solution: Make sure to enter a valid amount and check your account if you have sufficient balance for withdrawals or deposit.
