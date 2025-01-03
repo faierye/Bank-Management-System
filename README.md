@@ -3,8 +3,8 @@
 Welcome to the Bank Management System (BMS)! This console-based system that utilized file manipulation. It allows users to manage and perform bank transaction, access account information easily and securely. This manual will assist you in understanding the system’s features, setup procedures, and troubleshooting tips.
 
 System Requirements  
-•	Java Development Kit (JDK)  
-•	Java IDE
+•	Java Development Kit (JDK) - Version 8 or higher 
+•	Any Java IDE
 
 Installation Process  
 For Apache Netbeans IDE:
