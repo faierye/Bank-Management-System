@@ -106,7 +106,7 @@ public class BankManagementSystem {
             user[userCount][2] = address;     // Address
             user[userCount][3] = birthDate;   // Birthdate
             user[userCount][4] = contact;     // Contact
-            user[userCount][5] = emailAddress;    // Username
+            user[userCount][5] = emailAddress;    // Email Address
             user[userCount][6] = userPass;    // Password
             userCount++;
             System.out.println("++++++++++++++++++++++++");
@@ -373,7 +373,7 @@ public class BankManagementSystem {
                     user[userCount][2] = parts[2].trim(); // Address
                     user[userCount][3] = parts[3].trim(); // Birthdate
                     user[userCount][4] = parts[4].trim(); // Contact
-                    user[userCount][5] = parts[5].trim(); // Username
+                    user[userCount][5] = parts[5].trim(); // Email Address
                     user[userCount][6] = parts[6].trim(); // Password
                     userCount++;
                 }
